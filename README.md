@@ -21,14 +21,17 @@ Recurso                      | Relevância |
 -----------------------------| -----------
 Git e cultura de versionamento     | Acho que já usamos razoavelemente o versionamento, mas talvez possamos melhorar, embora pra isso talvez dependa de outros fluxos tais como definir ferramentas de CI/CD (Gitlab CI, Github Action, Ansible?)
 GitLab   | Me parece a alternativa mais completa e acessível para nosso contexto, para ser o reposítorio de códígo principal, plataforma de CI/CD, Registry, Runner e até gestão de processos (vide Board estilo Trelho)
-Github | Não pode ser descartada como plataforma auxiliar, principalmente para disponibilizarmos nossos projeto como código opensource que poderiam receber contribuições da comunidade. Fora questões de redundãncia dos dados
+Github | Não pode ser descartada como plataforma auxiliar, principalmente para disponibilizarmos nossos projeto como código opensource, que poderiam receber contribuições da comunidade. Fora questões de redundãncia dos dados.
 Ansible | Avalia-se o Ansible como boa alternativa de orquestrador e gestor de configurações pela versatilidade, com ele dá pra gerenciar desde os ativos de rede até a cloud
 Logs, Monitoração e Onservabilidade | Precisamos melhorar nossa stack de monitoração e logs (Graylog, Zabbix) em número de servços monitorados e em recursos de observabilidade, que incluem tracker de erros (Prometheus), melhor visualização (Grafana).
-Teste automatizados | Precisamos incluir numa pipeline de CI/CD, testes automatizados, ainda que básicos, sejam unitários, de integração ou também análise de vulnerabilidade e testes de performance.
+Testes automatizados | Precisamos incluir numa pipeline de CI/CD, testes automatizados, ainda que básicos, sejam unitários, de integração ou também análise de vulnerabilidade e testes de performance.
 
 # Outras abordagens desejáveis
 Recursos ainda distantes mais que seriam fortemente desajáveis no nosso contexto.
 Recurso                      | Relevância |
 -----------------------------| -----------
-Terraform, CloudFormation ou outros orquestradores de nuvem | Na medida que adotarmos a cloud, seria bom ter expertise nas ferramentas mais úteis.
+Terraform, CloudFormation, etc | Na medida que adotarmos a cloud, seria bom ter expertise nas ferramentas mais úteis.
+
+# Contribuir
+Pordemo contribui com o repositório criando issues, pull request, edição direta ou debatento no chat.
 
