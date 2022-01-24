@@ -35,3 +35,9 @@ Terraform, CloudFormation, etc | Na medida que adotarmos a cloud, seria bom ter 
 # Contribuir
 Pordemo contribui com o repositório criando issues, pull request, edição direta ou debatento no chat.
 
+# Referências
+
+[Site Reliability Engineering (leitura online](https://sre.google/sre-book/table-of-contents/)
+[Continuos Integration - Thoughtworks](https://www.thoughtworks.com/pt/continuous-integration)
+[Gerenciamento de Projetos de Software com Gitlab - Youtube playlist](https://www.youtube.com/watch?v=_m5WZ--yQfw&list=PLDqnSpzNKDvmeJY64RTtgjR9TDvDz8Rf0&index=2)
+
