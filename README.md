@@ -5,7 +5,7 @@ Proposta para construirmos junto nossa jornada de automação, infra as code, nu
 Desde que iniciamos, ainda que intuitivamente, com ideias de automatizar processos para reduzir trabalhos manuais, adotamos várias técnicas e ferramentas. Penso que ainda falta nos coordenarmos para desenvolver conhecimento em grupo e definir ferramentas e fluxos padrão do setor, ainda mais agora que temos capacidade de desenvolver código.
 
 # Mapa de Ferramentas/Tecnologias já adotadas no contexto de automação e redução do trabalho árduo(toil)
-Tabela de recurso que já usamos de forma relativamente consolidada.
+Tabela de recursos que já usamos de forma relativamente consolidada. Nota-se que, mesmo estratégias tradicionais( controle de domínio) trouxeram valor em termos de reduzir nossas trafeas penosas, manuais, individualizadas, o que otimizou o nosso trabalho.
 Recurso                      | Resultado |
 -----------------------------| -----------
 Controlador de Domínio       | Incluindo as GPOs e limitação das permissões aos usuários nos PCs, automatizamos o mampeamentos e reduziu bastante incidentes causados pelos usuários
