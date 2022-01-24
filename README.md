@@ -25,6 +25,7 @@ Github | Não pode ser descartada como plataforma auxiliar, principalmente para 
 Ansible | Avalia-se o Ansible como boa alternativa de orquestrador e gestor de configurações pela versatilidade, com ele dá pra gerenciar desde os ativos de rede até a cloud
 Logs, Monitoração e Observabilidade | Precisamos melhorar nossa stack de monitoração e logs (Graylog, Zabbix) em número de servços monitorados e em recursos de observabilidade, que incluem tracker de erros (Prometheus), melhor visualização (Grafana).
 Testes automatizados | Precisamos incluir numa pipeline de CI/CD, testes automatizados, ainda que básicos, sejam unitários, de integração ou também análise de vulnerabilidade e testes de performance.
+Python, Shell ou Go | São as duas linguagens de programação mais citadas na área de DevOps e SRE, para criação de scritps e ferramentas próprias de automação.
 
 # Outras abordagens desejáveis
 Recursos ainda distantes mais que seriam fortemente desajáveis no nosso contexto.
